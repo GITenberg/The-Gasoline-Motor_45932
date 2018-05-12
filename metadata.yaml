@@ -1,0 +1,27 @@
+_repo: The-Gasoline-Motor_45932
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45932-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Slauson, Harold Whiting
+    gutenberg_agent_id: '43529'
+    url: http://www.gutenberg.org/2009/agents/43529
+description: ''
+gutenberg_issued: '2014-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45932'
+  lccn: '13011047'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TJ'
+- !lcsh 'Internal combustion engines'
+tableOfContents: Types of motors -- Valves -- Bearings -- The ignition system -- Magnetos
+  -- Carburetors and their fuel -- Lubrication -- Cooling -- Two cycle motors.
+title: The Gasoline Motor
+url: http://www.gutenberg.org/ebooks/45932
