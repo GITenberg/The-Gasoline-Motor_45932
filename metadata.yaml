@@ -23,6 +23,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'TJ'
 - !lcsh 'Internal combustion engines'
+- GITenberg
 tableOfContents: Types of motors -- Valves -- Bearings -- The ignition system -- Magnetos
   -- Carburetors and their fuel -- Lubrication -- Cooling -- Two cycle motors.
 title: The Gasoline Motor
